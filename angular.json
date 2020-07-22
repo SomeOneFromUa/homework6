@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "src/custom-theme.scss",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "hw6"
+    }
+  },
+  "defaultProject": "hw6",
+  "cli": {
+    "analytics": "29aa0ef5-3fe6-45e8-8938-e3210d1454d8"
+  }
 }

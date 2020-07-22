@@ -1,0 +1,14 @@
+.header {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  background-color: blueviolet;
+  color: white;
+}
+.naw  {
+  display: flex;
+  margin-left: 50px;
+}
+.naw>div {
+  margin: 5px;
+}
